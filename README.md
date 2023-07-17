@@ -10,4 +10,4 @@ returnValue func(){ //这里`{`和`)`相连即可，也可以自行修改
 #### 使用效果：
 ##### 对应源码的每个函数开头随机一段距离生成随机一个花指令（原理相同，具体结构随机）
 #### 原理：
-![]
+[![]](https://demoyao100.github.io/2023/07/18/junk-code-demo/)https://demoyao100.github.io/2023/07/18/junk-code-demo/
